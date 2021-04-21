@@ -146,6 +146,8 @@ body{
     .img-container img{
         width: inherit;
         height: 80px;
+        animation: rotate 2s linear infinite;
+        animation-play-state: paused;
     }
     .action-btn{
         font-size: 12px;
